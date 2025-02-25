@@ -12,8 +12,8 @@
 
 <h2>💻 Capstone Project</h2>
 
-- <b>Title</b>
-   - [Test Projects](https://github.com/vincentm-tech/devops-automation)
+- <b>AI-WEAR: TEXT READER GLASSES FOR VISUALLY IMPAIRED STUDENTS USING RASPBERRYPI WITH AUDIO-VISUAL CALL AND GOOGLE ASSISTANCE</b>
+   - [Project Details](https://github.com/vincentm-tech/devops-automation)
 
 <h2> 🤳 Connect with me:</h2>
 
