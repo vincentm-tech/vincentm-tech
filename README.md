@@ -1,10 +1,49 @@
 <h1>Hi, I'm Vincent! </h1>
 
-<h2>👨🏻‍💻 Software Development Projects:</h2>
+<h2>👨🏻‍💻 Software Development Projects</h2>
 
-- <b>Sample Projects</b>
-  - [Test Projects](https://github.com/vincentm-tech/devops-automation)
+<h3>📂 Data Engineering</h3>
+<ul>
+  <li><b><a href="https://github.com/vincentm-tech/data-engineering-project">Test Project</a></b></li>
+  <ul>
+    <li>🛠 <b>Technologies Used:</b> Python, Docker, CI/CD, Shell Scripting, Ansible</li>
+  </ul>
+</ul>
 
+<h3>🛠 DevOps & Automation</h3>
+<ul>
+  <li><b><a href="https://github.com/vincentm-tech/devops-automation">Test Project</a></b></li>
+  <ul>
+    <li>🛠 <b>Technologies Used:</b> Python, Docker, CI/CD, Shell Scripting, Ansible</li>
+  </ul>
+</ul>
+
+<h3>🤖 Machine Learning & AI</h3>
+<ul>
+  <li><b><a href="https://github.com/vincentm-tech/machine-learning-project">Test Project</a></b></li>
+  <ul>
+    <li>🛠 <b>Technologies Used:</b> Python, TensorFlow, Scikit-Learn, OpenCV</li>
+  </ul>
+</ul>
+
+
+<hr>
+<h2>💻 Capstone Project</h2>
+
+- <b>AI-WEAR: Text Reader Glasses for Visually Impaired Students Using Raspberry Pi with Audio-Visual Call and Google Assistance</b>
+   - [Project Details](https://github.com/vincentm-tech/ai-wear)
+   
+<h3>🛠 Skills Gained:</h3>
+<ul>
+  <li>🔹 Optical Character Recognition (OCR) using Tesseract</li>
+  <li>🔹 Image Processing with OpenCV</li>
+  <li>🔹 Text-to-Speech (TTS) Implementation</li>
+  <li>🔹 Hardware Integration with Raspberry Pi</li>
+  <li>🔹 Python Programming for Embedded Systems</li>
+  <li>🔹 Google Assistant & API Integration</li>
+  <li>🔹 Video Conferencing Setup using Jitsi Meet</li>
+  <li>🔹 Remote Access & System Management via VNC Viewer</li>
+</ul>
 
 <h2>🎖️ Certifications</h2>
 
@@ -20,12 +59,6 @@
 - [Career Essentials in GitHub Professional Certificate](https://www.linkedin.com/learning/certificates/9f07c8a5eabc6c3c7cb9e3c6c941e785f6b63931b8dd4eb43e39588ed5781810)
 - [Network Automation Professional Certificate by Arista Networks](https://www.linkedin.com/learning/certificates/066d872f36cd538fbde03805d82de191880b86008ad828afef240eebe9fce5fc)
 - [SS&C Blue Prism Robotic Process Automation Professional Certificate](https://www.linkedin.com/learning/certificates/9fa24929ebbf4211c40c86f3bb6286737b21df56f889dd4b648260663722ae74)
-
-<h2>💻 Capstone Project</h2>
-
-- <b>AI-WEAR: Text Reader Glasses for Visually Impaired Students Using Raspberry Pi with Audio-Visual Call and Google Assistance</b>
-   - [Project Details](https://github.com/vincentm-tech/ai-wear)
-
 
 <h2> 🤳 Connect with me:</h2>
 
