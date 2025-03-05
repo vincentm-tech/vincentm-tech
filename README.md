@@ -1,33 +1,5 @@
 <h1>Hi, I'm Vincent! </h1>
 
-<h2>👨🏻‍💻 Software Development Projects</h2>
-
-<h3>📂 Data Engineering</h3>
-<ul>
-  <li><b><a href="https://github.com/vincentm-tech/data-engineering-project">Test Project</a></b></li>
-  <ul>
-    <li>🛠 <b>Technologies Used:</b> Python, Docker, CI/CD, Shell Scripting, Ansible</li>
-  </ul>
-</ul>
-
-<h3>🛠 DevOps & Automation</h3>
-<ul>
-  <li><b><a href="https://github.com/vincentm-tech/devops-automation">Test Project</a></b></li>
-  <ul>
-    <li>🛠 <b>Technologies Used:</b> Python, Docker, CI/CD, Shell Scripting, Ansible</li>
-  </ul>
-</ul>
-
-<h3>🤖 Machine Learning & AI</h3>
-<ul>
-  <li><b><a href="https://github.com/vincentm-tech/machine-learning-project">Test Project</a></b></li>
-  <ul>
-    <li>🛠 <b>Technologies Used:</b> Python, TensorFlow, Scikit-Learn, OpenCV</li>
-  </ul>
-</ul>
-
-
-<hr>
 <h2>💻 Capstone Project</h2>
 
 - <b>AI-WEAR: Text Reader Glasses for Visually Impaired Students Using Raspberry Pi with Audio-Visual Call and Google Assistance</b>
