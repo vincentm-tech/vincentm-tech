@@ -1,6 +1,15 @@
 <h1>Hi, I'm Vincent! </h1>
+<h2>👨🏻‍💻 Software Development Projects</h2>
 
-<h2>💻 Capstone Project</h2>
+<h3>💻🐍 Python Development </></h3>
+<ul>
+  <li><b><a href="https://github.com/vincentm-tech/flask_etl">Flask ETL API</a></b></li>
+  <ul>
+    <li>🛠 <b>Technologies Used:</b> Python, Flask, Pandas, REST API, Vercel, Git, Virtual Environment</li>
+  </ul>
+</ul>
+<hr>
+<h2>📝 Capstone Project</h2>
 
 - <b>AI-WEAR: Text Reader Glasses for Visually Impaired Students Using Raspberry Pi with Audio-Visual Call and Google Assistance</b>
    - [Project Details](https://github.com/vincentm-tech/ai-wear)
