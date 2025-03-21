@@ -1,6 +1,14 @@
 <h1>Hi, I'm Vincent! </h1>
 <h2>👨🏻‍💻 Software Development Projects</h2>
 
+<h3>🤖📄 AI Automation Projects </h3>
+<ul>
+  <li><b><a href="https://github.com/vincentm-tech/resume-ranking">AI Resume Ranking</a></b></li>
+  <ul>
+    <li>🛠 <b>Technologies Used:</b> Python, PaddleOCR, spaCy, Mistral AI (LLM), Regex, Ollama, File Handling</li>
+  </ul>
+</ul>
+
 <h3>💻🐍 Python Development </></h3>
 <ul>
   <li><b><a href="https://github.com/vincentm-tech/flask_etl">Flask ETL API</a></b></li>
@@ -40,6 +48,7 @@
 - [Career Essentials in GitHub Professional Certificate](https://www.linkedin.com/learning/certificates/9f07c8a5eabc6c3c7cb9e3c6c941e785f6b63931b8dd4eb43e39588ed5781810)
 - [Network Automation Professional Certificate by Arista Networks](https://www.linkedin.com/learning/certificates/066d872f36cd538fbde03805d82de191880b86008ad828afef240eebe9fce5fc)
 - [SS&C Blue Prism Robotic Process Automation Professional Certificate](https://www.linkedin.com/learning/certificates/9fa24929ebbf4211c40c86f3bb6286737b21df56f889dd4b648260663722ae74)
+- [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/c7bfa83fbce1d19ecdd04617ebb4f6396223c450d3223092a00fda16f9fec9b4?u=83641554)
 
 <h2> 🤳 Connect with me:</h2>
 
